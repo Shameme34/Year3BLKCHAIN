@@ -1,0 +1,1 @@
+Place alice.py and bob.py in their respective folders (bob and alice) before running both programs
